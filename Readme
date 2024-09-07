@@ -1,0 +1,18 @@
+# Aplicação DevOps
+
+## Descrição:
+Uma aplicação em Node.js simples, utilizando o framework Express.js. Contendo dois endpoints:
+* `GET /`: Retorna uma página HTML de boas-vindas.
+* `GET /integrantes`: Retorna um JSON com os nomes dos integrantes do grupo.
+
+## Rodando a aplicação:
+Fazer o download dos arquivos do repositório ou cloná-lo através do link.
+
+### Requisitos
+* Node.js
+* npm
+
+### Instalação
+1. Clone o repositório:
+   ```bash
+   git clone
